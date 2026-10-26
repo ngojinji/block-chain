@@ -1,0 +1,14 @@
+# secrets — never push
+.env
+
+# dependencies & build output
+node_modules/
+artifacts/
+cache/
+typechain-types/
+coverage/
+__pycache__/
+.venv/
+
+# not finished yet
+lab_7/
